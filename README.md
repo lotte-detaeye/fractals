@@ -5,7 +5,7 @@ You can choose between the Mandelbrot set and the Julia set.
 
 To use it:
 ```sh
-git clone <the_repository> fractals
+git clone https://github.com/lotte-detaeye/fractals.git fractals
 cd fractals
 make
 ```
