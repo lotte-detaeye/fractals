@@ -20,5 +20,5 @@ Then run the program and enter the right parameters:
 or
 ```sh
 ./fractal julia -0.8 0.156
-#       Other xample values for the julia set: 0.285 0.01
+#       Other example values for the julia set: 0.285 0.01
 ```
