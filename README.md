@@ -3,7 +3,7 @@
 This is a simple program that displays two different kinds of fractals on the screen, using some color.
 You can choose between the Mandelbrot set and the Julia set.
 
-To use it:
+To install it:
 ```sh
 git clone https://github.com/lotte-detaeye/fractals.git fractals
 cd fractals
