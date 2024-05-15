@@ -7,6 +7,9 @@ To use it:
 ```sh
 git clone https://github.com/lotte-detaeye/fractals.git fractals
 cd fractals
+cd minilibx-linux
+make
+cd ..
 make
 ```
 
