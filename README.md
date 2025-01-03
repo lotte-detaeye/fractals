@@ -8,7 +8,7 @@ You can choose between the Mandelbrot set and the Julia set.
 <img src="https://github.com/user-attachments/assets/5623a319-96f5-419d-a71e-e1241a0496d8"  alt="Screenshot2" width="350"/>
 </p>
 
-To install it:
+To install:
 ```sh
 git clone https://github.com/lotte-detaeye/fractals.git fractals
 cd fractals
